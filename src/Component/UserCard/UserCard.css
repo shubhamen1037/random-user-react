@@ -1,0 +1,13 @@
+.user-card-content{
+    border: 2px solid red;
+    height: 200px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 10px;
+}
+.user-card-content > img{
+    margin-bottom: 20px;
+}
